@@ -1,0 +1,8 @@
+D:\OneDrive - hSenid Business Solutions PLC\Documents\GitHub\C-Tutorial-YT-Mosh\Variables2\Variables2\obj\Debug\Variables2.csproj.AssemblyReference.cache
+D:\OneDrive - hSenid Business Solutions PLC\Documents\GitHub\C-Tutorial-YT-Mosh\Variables2\Variables2\obj\Debug\Variables2.csproj.CoreCompileInputs.cache
+D:\OneDrive - hSenid Business Solutions PLC\Documents\GitHub\C-Tutorial-YT-Mosh\Variables2\Variables2\bin\Debug\Variables2.exe.config
+D:\OneDrive - hSenid Business Solutions PLC\Documents\GitHub\C-Tutorial-YT-Mosh\Variables2\Variables2\bin\Debug\Variables2.exe
+D:\OneDrive - hSenid Business Solutions PLC\Documents\GitHub\C-Tutorial-YT-Mosh\Variables2\Variables2\bin\Debug\Variables2.pdb
+D:\OneDrive - hSenid Business Solutions PLC\Documents\GitHub\C-Tutorial-YT-Mosh\Variables2\Variables2\obj\Debug\Variables2.exe
+D:\OneDrive - hSenid Business Solutions PLC\Documents\GitHub\C-Tutorial-YT-Mosh\Variables2\Variables2\obj\Debug\Variables2.pdb
+D:\OneDrive - hSenid Business Solutions PLC\Documents\GitHub\C-Tutorial-YT-Mosh\Variables2\Variables2\obj\Debug\Variables2.exe.config
