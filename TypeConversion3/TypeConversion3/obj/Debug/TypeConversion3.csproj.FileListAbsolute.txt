@@ -1,0 +1,8 @@
+D:\OneDrive - hSenid Business Solutions PLC\Documents\GitHub\C-Tutorial-YT-Mosh\TypeConversion3\TypeConversion3\bin\Debug\TypeConversion3.exe.config
+D:\OneDrive - hSenid Business Solutions PLC\Documents\GitHub\C-Tutorial-YT-Mosh\TypeConversion3\TypeConversion3\bin\Debug\TypeConversion3.exe
+D:\OneDrive - hSenid Business Solutions PLC\Documents\GitHub\C-Tutorial-YT-Mosh\TypeConversion3\TypeConversion3\bin\Debug\TypeConversion3.pdb
+D:\OneDrive - hSenid Business Solutions PLC\Documents\GitHub\C-Tutorial-YT-Mosh\TypeConversion3\TypeConversion3\obj\Debug\TypeConversion3.csproj.AssemblyReference.cache
+D:\OneDrive - hSenid Business Solutions PLC\Documents\GitHub\C-Tutorial-YT-Mosh\TypeConversion3\TypeConversion3\obj\Debug\TypeConversion3.csproj.CoreCompileInputs.cache
+D:\OneDrive - hSenid Business Solutions PLC\Documents\GitHub\C-Tutorial-YT-Mosh\TypeConversion3\TypeConversion3\obj\Debug\TypeConversion3.exe
+D:\OneDrive - hSenid Business Solutions PLC\Documents\GitHub\C-Tutorial-YT-Mosh\TypeConversion3\TypeConversion3\obj\Debug\TypeConversion3.pdb
+D:\OneDrive - hSenid Business Solutions PLC\Documents\GitHub\C-Tutorial-YT-Mosh\TypeConversion3\TypeConversion3\obj\Debug\TypeConversion3.exe.config
