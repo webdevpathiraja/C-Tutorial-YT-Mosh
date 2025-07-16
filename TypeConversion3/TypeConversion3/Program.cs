@@ -34,7 +34,6 @@ namespace TypeConversion3
             //byte b3 = Convert.ToByte(largeInt);
             //Console.WriteLine(b3);
 
-
             try
             {
                 var largeInt = "1234";
@@ -45,7 +44,25 @@ namespace TypeConversion3
             {
                 Console.WriteLine("number could not be converted to byte");
             }
-         
+
+
+            // works for str true false
+            string str = "true";
+            bool b4 = Convert.ToBoolean(str);
+            Console.WriteLine(b4); // True
+
+
+            try
+            {
+                string str2 = "aloka";
+                bool name = Convert.ToBoolean(str2);
+                Console.WriteLine(name);
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("string could not be converted to bool");
+            }
+
 
 
 
